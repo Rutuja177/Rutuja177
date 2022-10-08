@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rutuja
 - 👀 I’m interested in Web Development, Machine Learning, Database 
-- 🌱 I’m currently learning Supervised Machine Learning, Typescript
+- 🌱 I’m currently learning JavaScript, Supervised Machine Learning, Typescript
+- 👨‍💻 Pronouns: she/her
 - 💞️ I’m looking to collaborate on web Development project as being part of both frontend and backend
 - 📫 How to reach me , rutuja.dukhande7@gmail.com
 
