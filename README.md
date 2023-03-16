@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Rutuja
+- I am someone who is creative, resourceful and ambitious✨
 - 👀 I’m interested in Web Development, Machine Learning, Database 
 - 🌱 I’m currently learning JavaScript, Supervised Machine Learning, Typescript
 - 👨‍💻 Pronouns: she/her
