@@ -7,7 +7,7 @@
 - 📫 How to reach me , rutuja.dukhande7@gmail.com
 
 [![LinkedIn]](https://www.linkedin.com/in/rutujadukhande/) 
-
+<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 <!---
 Rutuja177/Rutuja177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
