@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on web Development project as being part of both frontend and backend
 - 📫 How to reach me , rutuja.dukhande7@gmail.com
 
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/rutujadukhande/) 
+[![LinkedIn]](https://www.linkedin.com/in/rutujadukhande/) 
 
 <!---
 Rutuja177/Rutuja177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
