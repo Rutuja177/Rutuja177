@@ -7,7 +7,7 @@
 - 📫 How to reach me , rutuja.dukhande7@gmail.com
 
   ![linkedin](https://img.shields.io/badge/<Badge linkedin>-<Background #0A66C2>?style=for-the-badge&logo=<Icon linkedIn>&logoColor=<Logo #0A66C2>)
-  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
 
