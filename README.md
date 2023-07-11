@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on web Development project as being part of both frontend and backend
 - 📫 How to reach me , rutuja.dukhande7@gmail.com
 
+  ![LinkedIn](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 
 <!---
