@@ -1,4 +1,4 @@
-👋 Hello there! I'm Rutuja Dukhande <img src="https://i.imgur.com/veZrcC7.gif" alt="Meow" width="50" />, and I'm a delightful blend of creativity, attention to detail, organization, and boundless ambition! ✨
+👋 Hello there! I'm Rutuja Dukhande <img src="https://i.imgur.com/veZrcC7.gif" alt="Meow" width="50" />, and I'm a delightful blend of creativity, attention to detail, organized, and boundless ambition! ✨
 
 👀 My passion lies in the world of Web Development and Database wizardry. I find the process of crafting captivating digital experiences absolutely mesmerizing.
 
