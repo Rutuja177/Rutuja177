@@ -17,7 +17,7 @@
 📫 Let's connect and embark on this journey together! Reach out to me at rutujadukhande17@gmail.com, and let's create digital wonders that leave a lasting impression!
 
 Looking forward to hearing from you and making magic happen! ✨
-https://i.imgur.com
+<img src="https://i.imgur.com" alt="lofi" width="100" />
 <!---
 Rutuja177/Rutuja177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
