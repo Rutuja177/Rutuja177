@@ -13,7 +13,7 @@
 📫 Let's connect and embark on this journey together! Reach out to me at rutujadukhande17@gmail.com, and let's create digital wonders that leave a lasting impression!
 
 Looking forward to hearing from you and making magic happen! ✨
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <!---
 Rutuja177/Rutuja177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
