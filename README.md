@@ -1,6 +1,6 @@
 👋 Hello there! I'm Rutuja Dukhande <img src="https://i.imgur.com/veZrcC7.gif" alt="Meow" width="50" />, and I'm a delightful blend of creativity, attention to detail, organized, and boundless ambition! ✨
 
-👀 My passion lies in the world of Web Development and Database wizardry. I find the process of crafting captivating digital experiences absolutely mesmerizing.
+👀 My passion lies in the world of Web Development and Database wizardry. I find the process of crafting captivating digital experiences mesmerizing.
 
 🌱 Currently, I'm immersing myself in the enchanting realms of JavaScript (ES6), React, C#, and the all-new .NET 6. It's like embarking on a thrilling adventure with every line of code I write.
 
