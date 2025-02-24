@@ -8,7 +8,6 @@
 
 📫 Let's connect and embark on this journey together! Contact me at rutujadukhande86@gmail.com, and let's create digital wonders that leave a lasting impression!
 
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/plumber.jpg" alt="lofi" width="70" /> 
 <h3>Languages/Tools:</h3>
 
 [![My skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,javascript,typescript,nodejs,mongodb,react,expressjs,python,flask,mysql,git,postman,firebase,gcp,cs,github#&theme=dark)](https://skillicons.dev) 
