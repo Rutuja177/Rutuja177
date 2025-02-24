@@ -10,7 +10,7 @@
 
 🏢 My eyes are peeled for captivating full-time job opportunities in the Software Development and Web Development realm. I'm ready to seize the chance to bring my skills to a remarkable organization.
 
-📫 Let's connect and embark on this journey together! Reach out to me at rutujadukhande17@gmail.com, and let's create digital wonders that leave a lasting impression!
+📫 Let's connect and embark on this journey together! Reach out to me at rutujadukhande86@gmail.com, and let's create digital wonders that leave a lasting impression!
 
 <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/plumber.jpg" alt="lofi" width="70" /> 
 <h3>Languages/Tools:</h3>
